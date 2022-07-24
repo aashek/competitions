@@ -17,6 +17,6 @@ def minAmount(coins, amount):
     return dp[amount]
 
 
-coins = [1, 2, 5]
-amount = 10
-print(minAmount(coins, amount))
+coins = [1,3,5]
+S = 11 # Number
+print(minAmount(coins, S))

@@ -1,3 +1,12 @@
+"""
+https://practice.geeksforgeeks.org/problems/lcs-of-three-strings0028/1
+https://www.geeksforgeeks.org/lcs-longest-common-subsequence-three-strings/
+
+Similar Question
+https://leetcode.com/problems/longest-common-subsequence/
+
+"""
+
 class Solution:
 
     def LCSof3(self,A,B,C,n1,n2,n3):
